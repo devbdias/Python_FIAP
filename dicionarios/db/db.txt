@@ -1,0 +1,1 @@
+0001:{'nome': 'TESTE 01', 'data': '01/01/01', 'última estação acessada': '0001'}
